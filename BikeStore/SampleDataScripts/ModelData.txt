@@ -1,0 +1,60 @@
+Name	ManufacturerCode	CategoryName	Description	Features	StatusName	ManufacturerName	ListPrice	ImageCollection	CategoryCustomData	ManufacturerCustomData
+Madone 9.9		Road Bikes	"Madone is the ultimate fusion of power, aerodynamics, ride quality, and integration. There are no two ways about it: the first true superbike is a marvel of road bike engineering."	"All-new Madone sets a new benchmark for race performance
+IsoSpeed offers the best vertical compliance & aerodynamics
+Every detail is designed for ultimate integration and speed
+Make it yours: completely customizable through Project One"	Active	Trek	11999.99		{"Colors":"Matte Dnister Black Viper Red","Frame":"600 Series OCLV Carbon, KVF (Kammtail Virtual Foil) tube shape, Madone IsoSpeed, Micro-adjust seatmast, E2, BB90, invisible cable routing, Control center, precision water bottle placement, Aero 3S chain keeper, DuoTrap S compatible","Fork":"Madone KVF full carbon, carbon E2 asymmetric steerer, carbon dropouts, integrated brake and stem","Sizes":"50, 52, 54, 56, 58, 60, 62cm","Frame Fit":"H2","Wheels":"Bontrager Aeolus 5 D3 Tubeless Ready","Tires":"Bontrager R4 Hard-Case Lite, 220tpi, aramid bead, 700x23c","Shifters":"Shimano Dura-Ace Di2, 11 speed","Front derailleur":"Shimano Dura-Ace Di2, braze-on","Rear derailleur":"Shimano Dura-Ace Di2","crank":"Shimano Dura-Ace, 50 34 (compact)","cassette":"Shimano Dura-Ace, 11-28, 11 speed","Chain":"Shimano Dura-Ace","Saddle":"Bontrager Paradigm XXX, carbon rails","Seatpost":"Madone micro-adjust carbon seatmast cap, 25mm offset"}	
+Emonda SL 6		Road Bikes	"Every detail of the Émonda line, from frame design to each component choice on every model, serves the same audacious goal: to create the lightest line of production road bikes ever offered."	"2015 Velonews Bike of the Year, TOUR Magazine Best of 2015
+Redefines what's possible for weight and ride performance
+Trek OCLV Carbon makes the ultimate light bike possible
+Perfectly balanced, ultra-responsive ride feel"	Active	Trek	2999.99			
+Domane 4.3		Road Bikes	"Domane with IsoSpeed has it all: Blistering speed. Incredible race comfort and stability, even on the punishing pavé of Flanders and Roubaix. Don’t endure. Conquer.'"	"Trek OCLV Carbon frame lets you ride stronger, longer
+IsoSpeed doubles compliance to conquer the roughest roads
+Exceptionally stable geometry and flawless shifting
+Make it yours: completely customizable through Project One"	Active	Trek	2299.99		{"Colors":"Black Pearl Crystal White","Frame":"400 Series OCLV Carbon, IsoSpeed, Power Transfer Construction, hidden fender mounts, E2 tapered head tube, BB90, DuoTrap compatible, 3S chain keeper","Fork":"Trek IsoSpeed carbon, E2 steerer","Sizes":"50, 52, 54, 56, 58, 60, 62cm","Frame Fit":"Endurance","Wheels":"Bontrager alloy","Tires":"Bontrager R1 Hard-Case Lite, 700x25c","Shifters":"Shimano 105, 11 speed","Front derailleur":"Shimano 105, braze-on","Rear derailleur":"Shimano 105","crank":"Shimano RS500, 50 34 (compact)","cassette":"Shimano 105, 11-32, 11 speed","Chain":"Shimano 105","Saddle":"Bontrager Paradigm R, hollow chromoly rails","Seatpost":"Bontrager carbon, 2-bolt head, 27.2mm, 8mm offset"}	
+1.2		Road Bikes	"1 Series aluminum road bikes feature the same aero shaping and race-ready detail as our top-end bikes. They're strong, light, and built to fly over the pavement."	"You'll feel the difference: nothing rides like a Trek
+Top-level spec for advanced performance over the long haul
+Light, sleek, ride-tuned Alpha Aluminum frame
+Front and rear fender mounts let you ride all year long"	Active	Trek	929.99		{"Colors":"Trek Black Fastback Orange","Frame":"100 Series Alpha Aluminum, fender rack compatible","Fork":"Trek carbon road","Sizes":"47, 50, 52, 54, 56, 58, 60, 62cm","Frame Fit":"H2","Wheels":"Bontrager alloy","Tires":"Bontrager T1, 700x23c","Shifters":"Shimano Sora, 9 speed","Front derailleur":"Shimano Sora","Rear derailleur":"Shimano Sora","crank":"FSA Vero 50 34 (compact)","cassette":"Shimano HG400, 11-28, 9 speed","Chain":"KMC X9","Saddle":"Bontrager Paradigm 1","Seatpost":"Bontrager alloy, 2-bolt head, 27.2mm, 8mm offset"}	
+Gel Cork Tape		Bar Tape	The traditional feel of natural cork combines with the vibration damping power of gel to create a modern classic.	"Gel tape with natural cork feel
+Inner gel strip for extra comfort
+Finishing strips and reflective Bontrager bar end plugs included
+Non-adhesive backing"	Active	Bontrager	19.99			
+Paradigm XXX Carbon		Saddles - Road Bike	"Hammer up unrelenting climbs. Break away on your own for the final 40k. Or pull your buddies home when they start to fade. However you “race” you’ll be faster, more comfortable and more efficient on the inForm BioDynamics Paradigm XXX saddle. Go faster and ride more miles with proper skeletal support and maximum pressure relief to the perineal area. Minimalist construction with carbon fiber-reinforced shell and oversized carbon rails. Choose from one of three widths for a personalized fit."	"Versatile race saddle designed for the needs of Posture 2 riders with the ability to support Posture 3
+Contour Relief Zone Plus - Cutaway design eliminates contact points on targeted soft tissue areas
+Size Specific Curvature - Curvature of each saddle is designed specific to its width
+Zone Density Padding - Multi-density padding is strategically placed for optimal comfort and performance
+Oversize Carbon Rails - For the ultimate in lightweight strength, requires Oversize rail-compatible seatpost clamp. Bontrager seatposts use 421564 or 436658
+Carbon Reinforced Shell - Compliant carbon fiber-reinforced shell strikes a balance between strength and light weight
+Precision-engineered superlight foam results in featherweight comfort
+inForm BioDynamics - Products designed to optimize your natural movement for sustained, higher performance"	Active	Bontrager	299.99			
+XXX Aero		Handlebars - Road	"Dramatically improve your efficiency, confidence and speed when you wrap your hands around the XXX Aero bars. Engineered to increase efficiency and performance on every level, the unique aero profile on these lightweight OCLV carbon bars is proven to save up to 23 seconds per hour over traditional round bars. Internal routing further calms turbulent airflow, and is compatible with electronic shifting systems from Shimano and Campagnolo. The proven KVF profile meets UCI's 3:1 profile limitation."	"OCLV Carbon Fiber construction
+Variable-Radius Compact Flare (VR-CF) design adds flare to the drops for increased wrist clearance and a more ergonomic drop shape
+Compatible with clip-on aero bars
+KVF profile top section saves 23 seconds per hour compared to traditional round bars
+Internal cable routing for Di2 and standard housing
+Laser-etched brake lever position lines for spot-on control setup
+UCI-Compliant"	Active	Bontrager	359.99			
+Node 2.1		Bike Computer	"The Node 2.1 reads the same ANT+ signals and provides the same great functions as the Node 1.1 computers with the addition of altitude, temperature and percent grade. The water-resistant design allows for all year riding, the back light keeps you informed at dusk and dawn and the included Soft-Strap heart rate monitor keeps you abreast of your body's changing conditions on the ride."	"ANT+ enabled, 2.4 GHz digital signal
+Compatible with ANT+ speed, cadence, power, and heart rate sensors
+Current, average and maximum speed
+Trip distance, programmable odometer with auto start/stop
+Clock (12/24-hour) and total ride time, interval timer and pacer
+Dual view, cadence, heart rate, power, altitude, % grade, backlight and battery life indicator
+Includes heart rate strap
+Does not include sensors. ANT+ sensors need to be purchased separately"	Active	Bontrager	139.99			
+Node 1.1		Bike Computer	"Train smarter with a Node 1.1 digital computer that reads ANT+ signals for speed, cadence, heart rate and power on a large, easy to read screen. Other functions include programmable heart rate zones and a customizable Dual View function allowing you to see the data you want without having to press buttons while you ride."	"ANT+ enabled, 2.4 GHz digital signal
+Compatible with ANT+ speed, cadence, power, and heart rate sensors
+Current, average and maximum speed
+Trip distance and programmable odometer
+Clock (12/24hour) and total ride time, interval timer and pacer
+Auto start/stop
+Dual view, cadence, heart rate, power and battery life indicator
+Does not include sensors. ANT+ sensors need to be purchased seperately"	Active	Bontrager	69.99			
+Trip 300		Bike Computer	"Easy to operate and full of features, the Trip 300 places all the information you need for commuting, training, or sport, wirelessly, right at your fingertips."	"ANT+ enabled, 2.4 GHz digital signal
+Current, average and maximum speed
+Trip distance, programmable odometer with auto start/stop
+Clock (12/24-hour) and total ride time with pacer
+Current, average and maximum heart rate
+Current, average and maximum cadence
+Includes universal mount (Blendr-compatible)
+Does not include sensors. ANT+ sensors need to be purchased separately"	Active	Bontrager	59.99			

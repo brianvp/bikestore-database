@@ -1,0 +1,43 @@
+Name	InvoiceDescription	ModelName	StatusName	InventoryPartNumber	ManufacturerPartNumber	CategoryCustomData	ManufacturerCustomData	ListPrice	Cost	UPC
+Madone 9.9	Madone 9.9 50cm	Madone 9.9	Active	15000	madone9950			11999.99	8399.993	
+Madone 9.9	Madone 9.9 52cm	Madone 9.9	Active	15001	madone9952			11999.99	8399.993	
+Madone 9.9	Madone 9.9 54cm	Madone 9.9	Active	15002	madone9954			11999.99	8399.993	
+Madone 9.9	Madone 9.9 56cm	Madone 9.9	Active	15003	madone9956			11999.99	8399.993	
+Emonda SL 6	Emonda SL 6 52cm	Emonda SL 6	Active	15004	emondasl652			2999.99	2099.993	
+Emonda SL 6	Emonda SL 6 54cm	Emonda SL 6	Active	15005	emondasl654			2999.99	2099.993	
+Emonda SL 6	Emonda SL 6 56 cm	Emonda SL 6	Active	15006	emondasl656			2999.99	2099.993	
+Emonda SL 6	Emonda SL 6 58cm	Emonda SL 6	Active	15007	emondasl658			2999.99	2099.993	
+Domane 4.3	Domane 4.3 54cm	Domane 4.3	Active	15008	domane4354			2299.99	1609.993	
+Domane 4.3	Domane 4.3 56cm	Domane 4.3	Active	15009	domane4356			2299.99	1609.993	
+Domane 4.3	Domane 4.3 58cm	Domane 4.3	Active	15010	domane4358			2299.99	1609.993	
+1.2	1.2 52cm	1.2	Active	15011	1252			929.99	650.993	
+1.2	1.2 54cm	1.2	Active	15012	1254			929.99	650.993	
+1.2	1.2 56cm	1.2	Active	15013	1256			929.99	650.993	
+Yellow	Yellow	Gel Cork Tape	Active	17001	501532			19.99	13.993	
+Light Pink	Light Pink	Gel Cork Tape	Active	17002	501533			19.99	13.993	
+Crystal Blue	Crystal Blue	Gel Cork Tape	Active	17003	501534			19.99	13.993	
+Flaming Rose	Flaming Rose	Gel Cork Tape	Active	17004	501535			19.99	13.993	
+Catalyst Orange	Catalyst Orange	Gel Cork Tape	Active	17005	501536			19.99	13.993	
+Catalyst Green	Catalyst Green	Gel Cork Tape	Discontinued	17006	501537			19.99	13.993	
+Carrera Blue	Carrera Blue	Gel Cork Tape	Active	17007	501538			19.99	13.993	
+Lymon	Lymon	Gel Cork Tape	Active	17008	501539			19.99	13.993	
+Grape	Grape	Gel Cork Tape	Active	17009	501540			19.99	13.993	
+Brown	Brown	Gel Cork Tape	Active	17010	501541			19.99	13.993	
+Green	Green	Gel Cork Tape	Active	17011	501542			19.99	13.993	
+Black	Black	Gel Cork Tape	Active	17012	501543			19.99	13.993	
+White	White	Gel Cork Tape	Active	17013	501544			19.99	13.993	
+Blue	Blue	Gel Cork Tape	Active	17014	501545			19.99	13.993	
+Red	Red	Gel Cork Tape	Active	17015	501546			19.99	13.993	
+Cyan	Cyan	Gel Cork Tape	Active	17016	501548			19.99	13.993	
+Seafoam	Seafoam	Gel Cork Tape	Active	17017	501549			19.99	13.993	
+Purple	Purple	Gel Cork Tape	Active	17018	501550			19.99	13.993	
+Red - 128mm	Red - 128mm	Paradigm XXX Carbon	Active	17019	425678			299.99	209.993	
+Yellow - 138mm	Yellow - 138mm	Paradigm XXX Carbon	Active	17020	425679			299.99	209.993	
+Blue - 148mm	Blue - 148mm	Paradigm XXX Carbon	Active	17021	425680			299.99	209.993	
+380mm		XXX Aero	Active	17022	430863			359.99	251.993	
+400mm		XXX Aero	Active	17033	430864			359.99	251.993	
+420mm		XXX Aero	Active	17034	830865			359.99	251.993	
+440mm		XXX Aero	Active	17035	830866			359.99	251.993	
+Node 2.1	Node 2.1	Node 2.1	Active	17036	425306			139.99	97.993	
+Node 1.1	Node 1.1	Node 1.1	Active	17037	425305			69.99	48.993	
+Trip 300	Trip 300	Trip 300	Active	17038	503153			59.99	41.993	
