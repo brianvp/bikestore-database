@@ -60,6 +60,10 @@
     <Folder Include="SampleDataScripts" />
     <Folder Include="Tables" />
     <Folder Include="Tables\product" />
+    <Folder Include="Views" />
+    <Folder Include="Views\Product" />
+    <Folder Include="Stored Procedures" />
+    <Folder Include="Stored Procedures\Product" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="CreateSchemas.sql" />
@@ -68,6 +72,13 @@
     <Build Include="Tables\product\Model.sql" />
     <Build Include="Tables\product\Status.sql" />
     <Build Include="Tables\product\PartNumber.sql" />
+    <Build Include="Views\Product\ViewPartNumber.sql" />
+    <Build Include="Views\Product\ViewModel.sql" />
+    <Build Include="Stored Procedures\Product\ModelSelectByKey.sql" />
+    <Build Include="Stored Procedures\Product\ModelInsert.sql" />
+    <Build Include="Stored Procedures\Product\ModelUpdate.sql" />
+    <Build Include="Stored Procedures\Product\ModelDelete.sql" />
+    <Build Include="Stored Procedures\Product\ModelSelectFilter.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="SampleDataScripts\Script.PopulateTables.sql" />
