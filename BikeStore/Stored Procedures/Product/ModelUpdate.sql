@@ -4,10 +4,10 @@
 --Description:	Update Model record
 --*************************************************************************************************************************************
 CREATE PROCEDURE [product].[ModelUpdate]
-	@ModelID int,
+	@ModelId int,
 	@Name nvarchar(100),
 	@ManufacturerCode nvarchar(25),
-	@CategoryID int,
+	@CategoryId int,
 	@Description nvarchar(max),
 	@Features	nvarchar(max),
 	@StatusId	int,

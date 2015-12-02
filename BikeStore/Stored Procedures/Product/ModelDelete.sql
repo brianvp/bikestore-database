@@ -4,6 +4,6 @@
 --Description:	Delete Model Record
 --*************************************************************************************************************************************
 CREATE PROCEDURE [product].[ModelDelete]
-	@ModelID int
+	@ModelId int
 AS
 	delete from product.Model where ModelID = @ModelID;
