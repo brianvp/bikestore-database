@@ -79,6 +79,7 @@
     <Build Include="Stored Procedures\Product\ModelUpdate.sql" />
     <Build Include="Stored Procedures\Product\ModelDelete.sql" />
     <Build Include="Stored Procedures\Product\ModelSelectFilter.sql" />
+    <Build Include="Stored Procedures\Product\PartNumberSelectFilter.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="SampleDataScripts\Script.PopulateTables.sql" />
