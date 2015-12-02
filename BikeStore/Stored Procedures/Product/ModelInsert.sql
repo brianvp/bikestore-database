@@ -2,12 +2,14 @@
 --Created By:	Brian Vander Plaats
 --Create Date:	10/16/2015
 --Description:	Add Model record
+-- 11/3/2015 bvp - add select option for extracting ModelId
+-- 11/4/2014 bvp - set default value of @ModelId to null - gets around EF Code First mapping issue
 --*************************************************************************************************************************************
 CREATE PROCEDURE [product].[ModelInsert]
-	@ModelID int OUTPUT,
+	@ModelId int = null OUTPUT,
 	@Name nvarchar(100),
 	@ManufacturerCode nvarchar(25),
-	@CategoryID int,
+	@CategoryId int,
 	@Description nvarchar(max),
 	@Features	nvarchar(max),
 	@StatusId	int,
@@ -46,3 +48,7 @@ insert into product.Model
 	);
 
 	set @ModelID = SCOPE_IDENTITY();
+
+	select ModelId
+	from product.Model
+	where @@ROWCOUNT > 0 and ModelId = SCOPE_IDENTITY()
